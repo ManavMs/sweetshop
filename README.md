@@ -2,6 +2,8 @@
 
 A full-stack web application for managing a modern Sweet Shop, featuring an interactive menu, automated inventory management, and a robust admin panel.
 
+**Vercel Deployment**: https://vercel.com/manavms-projects/sweetshopmangementsystem
+
 ![Sweet Shop Banner](frontend/public/menu-banner.png)
 
 ## Overview
